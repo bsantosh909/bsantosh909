@@ -40,9 +40,11 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,nginx,markdown,netlify,vercel,vscode,cloudflare,figma,regex)
 
+<!--
 ## Some of my projects
 [![Api Party](https://github-readme-stats.vercel.app/api/pin/?username=TheLearneer&repo=api-party&theme=radical)](https://github.com/TheLearneer/api-party)
 [![Clash of Clans Assets](https://github-readme-stats.vercel.app/api/pin/?username=Statscell&repo=clash-assets&theme=radical)](https://github.com/Statscell/clash-assets)
+-->
 
 ## Github Stats
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLearneer&show_icons=true&theme=radical)
