@@ -19,6 +19,8 @@ I am **Santosh Bhandari**, a full stack Software Engineering working around the 
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
+  <img src="https://img.shields.io/badge/Santosh%232138-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Username"/>
+  
 </div>
 
 ## Skills
