@@ -40,5 +40,5 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheLearneer&theme=onedark&column=8&margin-w=5&margin-h=5)
 
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLearneer&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TheLearneer&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=TheLearneer&theme=radical)
 
