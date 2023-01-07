@@ -16,7 +16,7 @@ I am **Santosh Bhandari**, a full stack Software Engineering working around the 
 Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts)
+![Languages](https://skillicons.dev/icons?i=js,ts,solidity)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,html,css,bootstrap,tailwind,scss,d3,redux)
