@@ -22,7 +22,7 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,html,css,bootstrap,tailwind,scss,d3,redux)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,nest,graphql)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,jest)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma)
