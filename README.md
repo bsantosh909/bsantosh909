@@ -28,7 +28,7 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,nginx,markdown,netlify,vercel,vscode,cloudflare,figma,regex)
+![Others](https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,nginx,markdown,netlify,vercel,vscode,cloudflare,figma,regex,linux)
 
 <!--
 ## Some of my projects
