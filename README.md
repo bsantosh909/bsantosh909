@@ -2,7 +2,7 @@
 
 Hello guys 👋
 
-I am **Santosh Bhandari**, a full stack Software Engineering working around the JavaScript Ecosystem.
+I am **Santosh Bhandari**, a full stack Software Engineer working around the JavaScript Ecosystem.
 
 ## Connect with me
   
