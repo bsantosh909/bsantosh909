@@ -9,7 +9,7 @@ I am **Santosh Bhandari**, a full stack Software Engineer working around the Jav
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bsantosh909)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bsantosh909)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bsantosh909/)
-![Discord](https://img.shields.io/badge/Santosh%232138-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/bsantosh909-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/279550792774582272)
 
 ## Skills
 
