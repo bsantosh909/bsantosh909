@@ -32,13 +32,13 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 
 <!--
 ## Some of my projects
-[![Api Party](https://github-readme-stats.vercel.app/api/pin/?username=TheLearneer&repo=api-party&theme=radical)](https://github.com/TheLearneer/api-party)
+[![Api Party](https://github-readme-stats.vercel.app/api/pin/?username=bsantosh909&repo=api-party&theme=radical)](https://github.com/bsantosh909/api-party)
 [![Clash of Clans Assets](https://github-readme-stats.vercel.app/api/pin/?username=Statscell&repo=clash-assets&theme=radical)](https://github.com/Statscell/clash-assets)
 -->
 
 ## Github Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=TheLearneer&theme=onedark&column=8&margin-w=5&margin-h=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=bsantosh909&theme=onedark&column=8&margin-w=5&margin-h=5)
 
-![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLearneer&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=TheLearneer&theme=radical)
+![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsantosh909&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=bsantosh909&theme=radical)
 
