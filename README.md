@@ -36,9 +36,10 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 [![Clash of Clans Assets](https://github-readme-stats.vercel.app/api/pin/?username=Statscell&repo=clash-assets&theme=radical)](https://github.com/Statscell/clash-assets)
 -->
 
+<!--
 ## Github Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=bsantosh909&theme=onedark&column=8&margin-w=5&margin-h=5)
 
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsantosh909&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=bsantosh909&theme=radical)
-
+-->
