@@ -16,19 +16,19 @@ I am **Santosh Bhandari**, a full stack Software Engineer working around the Jav
 Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,solidity)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cjavascript%2Cdart%2Cpython&theme=dark)](https://go-skill-icons.vercel.app)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,html,css,bootstrap,tailwind,scss,d3,redux)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react%2Cnextjs%2Cvuejs%2Cnuxtjs%2Caxios%2Creactrouter%2Chtml%2Ccss%2Cbootstrap%2Csass%2Ctailwindcss%2Cmaterialui%2Cradix%2Cshadcn%2Cantdesign%2Cvuetify%2Cd3%2Cchartjs%2Cstorybook%2Credux%2Czustand%2Cpinia%2Ctanstack%2Creactquery%2Cvite%2Cwebpack&theme=dark)](https://go-skill-icons.vercel.app)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,jest)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql%2Credis%2Cmongodb%2Cprisma%2Csequelize%2Ctypeorm%2Cmongoose%2Csupabase%2Cfirebase&theme=dark)](https://go-skill-icons.vercel.app)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,nginx,markdown,netlify,vercel,vscode,cloudflare,figma,regex,linux,firebase)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws%2Cdocker%2Cgit%2Crabbitmq%2Cbash%2Cpostman%2Cswagger%2Cvercel%2Cnetlify%2Ccloudflare%2Cclaude%2Cfigma%2Cvitest%2Ccypress%2Craspberrypi&theme=dark)](https://go-skill-icons.vercel.app)
 
 <!--
 ## Some of my projects
